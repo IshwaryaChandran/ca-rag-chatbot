@@ -1,0 +1,35 @@
+# PDF Processing
+pymupdf==1.24.5
+
+# LangChain Core
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-groq==0.1.9
+langchain-huggingface==0.0.3
+langchain-chroma==0.1.4
+
+# Vector Store
+chromadb==0.5.3
+
+# Embeddings (HuggingFace local - free)
+sentence-transformers==3.0.1
+
+# Web Search
+tavily-python==0.3.3
+
+# LangGraph (Agent Orchestration)
+langgraph==0.2.14
+
+# Backend
+fastapi==0.112.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+pydantic==2.8.2
+
+# Frontend
+streamlit==1.38.0
+
+# Utilities
+python-dotenv==1.0.1
+loguru==0.7.2
+tqdm==4.66.5
